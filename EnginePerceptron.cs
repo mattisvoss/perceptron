@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 
 /*-------------------------------------------------------------------------------------------------------------------
-                                                Perceptron Assignment
-                                                Course:     AM6007
-                                                Lecturer:   Dr Kieran Mulchrone 
-
-                                                Name:       Mattis Voss
-                                                Student #:  121128764
-                                                Date:       29/10/2021
+                                                Perceptron
 -------------------------------------------------------------------------------------------------------------------*/
 
 
